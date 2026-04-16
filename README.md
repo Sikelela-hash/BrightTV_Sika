@@ -26,17 +26,24 @@ Canva: for visualizing insights and presenting to CEO
 
 Extracted and consolidated 6 months of BrightTV user activity data
 Performed SQL analysis to calculate:
-Total viewership
-Watch time (duration)
-Channel performance
-User segmentation (race, gender, province)
-Analyzed time-based viewing patterns:
-Morning
-Afternoon
-Evening (peak consumption)
+1. Total viewership
+2. Watch time (duration)
+3. Channel performance
+4. User segmentation (race, gender, province)
+5. Analyzed time based viewing patterns: Morning, Afternoon, Night (peak consumption) and Evening
+
 Identified:
 Most watched channels and content categories
-High-engagement user segments
+High engagement user segments
 Provincial performance trends
-Built dashboards and visual reports to highlight key insights
-Compiled findings into a CEO-level presentation
+Canva for visual reports to highlight key insights
+Compiled findings into a CEO level presentation
+
+
+--Recommendations--
+
+Optimize Peak & Off Peak Viewing: Leverage evening peak hours with premium content releases and live events
+Content Strategy Enhancement: Focus on high performing content categories (entertainment, sports, news)
+Personalization & User Experience: Improve content discovery to increase watch time and retention
+Expand User Base: Launch referral and loyalty programs
+
